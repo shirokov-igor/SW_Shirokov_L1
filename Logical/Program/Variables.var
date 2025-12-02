@@ -1,0 +1,8 @@
+VAR
+	fb_motor : FB_Motor;
+	fb_motor_noreg : FB_Motor;
+	fb_regulator : FB_Regulator;
+	cnt : USINT;
+	speed : REAL;
+	enable : BOOL;
+END_VAR
